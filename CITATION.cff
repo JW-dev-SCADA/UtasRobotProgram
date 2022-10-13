@@ -9,3 +9,7 @@ authors:
   - given-names: Ji
     family-names: Wang
     email: ji.wang0@utas.edu.au
+title: "Project B thesis"
+version: 2.0.4
+date-released: 2022/10/14
+url: "https://github.com/JiWangStudy/UtasRobotProgram"
